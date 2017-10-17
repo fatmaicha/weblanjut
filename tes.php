@@ -1,1 +1,2 @@
 <?php
+echo "selamat pagi"
